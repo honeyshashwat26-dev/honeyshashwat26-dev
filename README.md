@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Honey 👋
 
-<!--
-**honeyshashwat26-dev/honeyshashwat26-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Beginner Web Developer  
+💻 Learning HTML, CSS, JavaScript  
+🌌 Love futuristic UI designs
 
-Here are some ideas to get you started:
+# Current Projects
+- Data Collector Website
+- Login UI Experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Goals
+- Become Full Stack Developer
+- Build futuristic websites
+- Improve animations & UI
+
+# Tech Stack
+HTML | CSS | JavaScript | GitHub
