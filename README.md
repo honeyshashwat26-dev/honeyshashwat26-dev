@@ -14,4 +14,4 @@
 - Improve animations & UI
 
 # Tech Stack
-HTML | CSS | JavaScript | GitHub
+HTML | CSS | JavaScript | Writer
