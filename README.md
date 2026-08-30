@@ -18,6 +18,8 @@ HTML | CSS | JavaScript | Writer
 
 # Here are the links to access my codes:
 
+# NOTE: ⚠️ Always change details (such as Telegram bot details, AP addresses before accessing the codes)
+
 # 1
 
 Data-Collector:
@@ -66,3 +68,12 @@ GalleryGrabber (Under Work) :
 
 https://honeyshashwat26-dev.github.io/GalleryGrabber/
 
+# 9
+
+ESP8266-12E-MODULE-SPY-AUDIO-RECORDER-AND-TELECASTER:
+
+https://honeyshashwat26-dev.github.io/ESP8266-12E-MODULE-SPY-AUDIO-RECORDER-AND-TELECASTER/
+
+If any of these have any error, feel free to contact on:
+
+Email: honeyshashwat26@gmail.com
