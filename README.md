@@ -48,19 +48,19 @@ Whatsapp-With-Admin-Powers-V1.0:
 
 https://honeyshashwat26-dev.github.io/Whatsapp-With-Admin-Powers-V1.0/
 
-# 5
+# 6
 
 Data-Grabber-V1.0:
 
 https://honeyshashwat26-dev.github.io/Data-Grabber-V1.0/
 
-# 5
+# 7
 
 Live-Video-Telecaster-V1.0:
 
 https://honeyshashwat26-dev.github.io/Live-Video-Telecaster-V1.0/
 
-# 6
+# 8
 
 GalleryGrabber (Under Work) :
 
