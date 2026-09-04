@@ -74,6 +74,14 @@ ESP8266-12E-MODULE-SPY-AUDIO-RECORDER-AND-TELECASTER:
 
 https://honeyshashwat26-dev.github.io/ESP8266-12E-MODULE-SPY-AUDIO-RECORDER-AND-TELECASTER/
 
+# 10
+
+Prime-Number-Checker:
+
+https://honeyshashwat26-dev.github.io/Prime-Number-Checker/
+
+
+
 If any of these have any error, feel free to contact on:
 
 Email: honeyshashwat26@gmail.com
